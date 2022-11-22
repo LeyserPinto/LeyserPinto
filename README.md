@@ -5,7 +5,6 @@
 ## Sobre mi
 
 * 👀 En el Desarrollo web desde el año 2019
-- 
 * 🌱 Conocimientos en: 
       * HTML-
       * CSS
@@ -14,12 +13,10 @@
       * Jquery
       * Ajax
       * PHP
-
 * 💥 Frameworks Conocidos:
       * React JS
       * Node JS
       * Bootstrap
-
 * 👨🏾‍💻 Administrador de Base de Dados MySQL-SQL Server
 
 <!---
