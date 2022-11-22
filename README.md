@@ -1,13 +1,26 @@
 
-# Hello
-- 👋 Hi, I’m @LeyserPinto
+# Hola
+- 👋 Mi Nombre es Leyser Pinto, Soy Desarrollador Web.
 
-## About Me
-- 👀 I’m interested in FullStack Web Developer...
-- 🌱 I’m React JS and Node JS specialist
+## Sobre mi
 
-## Contact Me
-- 📫 How to reach me? send me a WhatsApp Message to +58 424 8637828 or mail to leyserpinto3@gmail.com...
+* 👀 En el Desarrollo web desde el año 2019
+- 
+* 🌱 Conocimientos en: 
+      * HTML-
+      * CSS
+      * JS
+      * JSON
+      * Jquery
+      * Ajax
+      * PHP
+
+* 💥 Frameworks Conocidos:
+      * React JS
+      * Node JS
+      * Bootstrap
+
+* 👨🏾‍💻 Administrador de Base de Dados MySQL-SQL Server
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
