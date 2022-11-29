@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md)
-[![es](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md)
-# Oi, eu sou Leyser! Bem-vindo a meu GitHub
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md)
+# Oi, eu sou Leyser! 
 
 👀 Desenvolvedor Web desde 2019, Experiências em manutenção de equipamentos, desenvolvimento de sistemas computacionais e administração do banco de dados SQL Server MySQL. Minha principal linguagem de desenvolvimento é JavaScript.
 
