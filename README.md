@@ -1,7 +1,5 @@
 
-# Hola, Soy Leyser! 🇻🇪
-
-## Bio
+# Hola, Soy Leyser! 
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
 
@@ -26,14 +24,17 @@
 
 ## 📊 Estadisticas de GitHub
 
-[![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeyserPinto&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 💼 Proyectos
 
 [![CV](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=leyserpinto.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Contacto
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leyser-pinto/)
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
