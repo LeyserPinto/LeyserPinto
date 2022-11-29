@@ -1,8 +1,6 @@
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
 # Hola, Soy Leyser! 
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
