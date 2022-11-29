@@ -23,6 +23,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+
+## Estadisticas de GitHub
+
+[![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 # Oi
 - 👋 Meu Nome é Leyser, eu sou Desenvolvedor Web
 
