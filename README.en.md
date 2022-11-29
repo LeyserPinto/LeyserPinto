@@ -1,6 +1,7 @@
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/LeyserPinto/LeyserPinto/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md)
+
 
 # Hi, i'm Leyser! 
 
