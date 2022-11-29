@@ -1,7 +1,7 @@
 
 # Hola, Soy Leyser!
 
-## Biografia
+## **Biografia**
 
 * 👀 En el Desarrollo web desde el año 2019
 * 🌱 Conocimientos en: 
