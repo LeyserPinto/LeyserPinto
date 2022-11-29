@@ -1,7 +1,7 @@
 
 # Hola, Soy Leyser! 🇻🇪
 
-## Biografia
+## Bio
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
 
@@ -24,27 +24,16 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-## Estadisticas de GitHub
+## 📊 Estadisticas de GitHub
 
 [![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# Oi
-- 👋 Meu Nome é Leyser, eu sou Desenvolvedor Web
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-* 👀 Em desenvolvimento web desde 2019
-* 🌱 Conhecimento em:
-       * HTML-
-       *CSS
-       *JS
-       * JSON
-       * jquery
-       * ajax
-       *PHP
-* 💥 Frameworks:
-      * React JS
-      * Node JS
-      * Bootstrap
-* 👨🏾‍💻 Administrador de banco de dados MySQL-SQL Server
+
+### 💼 Proyectos
+
+[![CV](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=leyserpinto.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
