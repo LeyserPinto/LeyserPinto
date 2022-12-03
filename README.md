@@ -32,6 +32,7 @@
 ### 💼 Proyectos
 
 [![CV](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=leyserpinto.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contacto
