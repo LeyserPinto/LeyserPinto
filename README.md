@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
 
-#<h1 align="center"> Hola, Soy Leyser! </h1>
+<h1 align="center"> Hola, Soy Leyser! </h1>
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
 
@@ -10,12 +10,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
       
       
 ### 💥 Frameworks Conocidos:
