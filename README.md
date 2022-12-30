@@ -91,6 +91,22 @@
     <img src="https://skillicons.dev/icons?i=figma,ps" />
   </a>
 </p>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Otras Habilidades-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">🎊</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify" />
+  </a>
+</p>
 <!---->
 <!---->
 <!---->
@@ -138,9 +154,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-### Contacto
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leyser-pinto/)
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
