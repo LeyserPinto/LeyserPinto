@@ -1,30 +1,112 @@
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md)
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--`Idiomas del Readme-->
+<!---->
+<!---->
+<!---->
+<div align="center">
+  
+[Español](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md) |
+[Portugues](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+  
+</div>
+<!---->
+<!---->
+<!----><!--`Presentacion-->
+<!---->
+<!---->
+<!---->
+<h1 align="center"> Hi, i'm Leyser! </h1>
 
-
-# Hi, i'm Leyser! 
-
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--`Un Poco sobre mi-->
+<!---->
+<!---->
+<p align="center">
 👀 Web developer since 2019, Experiences in equipment maintenance, development of computer systems and administration of the SQL Server MySQL database. My main development language is JavaScript.
+</p>
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Habilidades o Lenguajes conocidos-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">🌱 Skills </h2>
 
-### 🌱 Knowledge in:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,cs" />
+  </a>
+</p>
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Habilidades Front End-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">💦 Front End: </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,electron,tailwind,bootstrap" />
+  </a>
+</p>
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Habilidades Back End-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">💥 Back End: </h2>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-      
-      
-### 💥 Frameworks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  </a>
+</p>
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Diseño de UX-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">✨ UX/UI: </h2>
 
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
+  </a>
+</p>
 
-### 👨🏾‍💻 Data Bases:
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Otras Habilidades-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">🎊 Extras</h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify" />
+  </a>
+</p>
 
 ## 📊 Github Stats
 
