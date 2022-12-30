@@ -2,6 +2,9 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
 
+
+[![pt-br](:brazil:)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+
 <h1 align="center"> Hola, Soy Leyser! </h1>
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
@@ -14,7 +17,7 @@
   </a>
 </p>
       
-<h2 align="center">💥 Frameworks & Librerias: </h2>
+<h2 align="center">💦 Front End: </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,11 +25,13 @@
   </a>
 </p>
 
-### 👨🏾‍💻 Base de Datos:
+<h2 align="center">💥 Back End: </h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  </a>
+</p>
 
 
 ## 📊 Estadisticas de GitHub
