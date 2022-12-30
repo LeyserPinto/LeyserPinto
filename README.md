@@ -153,10 +153,10 @@
   <a href="https://www.linkedin.com/in/leyser-pinto/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://leyserpinto-portfolio.netlify.app/">
-    💼 Portfolio
-  </a>
 </p>
+
+<h2 align="center">  💼 <a href="https://leyserpinto-portfolio.netlify.app/">Portfolio</a> 
+</h2>
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
