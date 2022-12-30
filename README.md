@@ -80,6 +80,21 @@
 <!---->
 <!---->
 <!---->
+<!----><!--Diseño de UX-->
+<!---->
+<!---->
+<!---->
+<h2 align="center">✨ UX/UI: </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
+  </a>
+</p>
+<!---->
+<!---->
+<!---->
+<!---->
 <!----><!--Proyectos-->
 <!---->
 <!---->
@@ -119,7 +134,7 @@
 <!---->
 <h2 align="center"> 🔔 Contacto </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/leyser-pinto/)">
+  <a href="https://www.linkedin.com/in/leyser-pinto/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
