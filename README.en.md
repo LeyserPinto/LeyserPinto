@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,electron,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,jquery,electron,tailwind,bootstrap" />
   </a>
 </p>
 <!---->
