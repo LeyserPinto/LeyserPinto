@@ -123,20 +123,40 @@
   
 </div>
 
-
-## 📊 Estatísticas do GitHub:
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Stats Github-->
+<!---->
+<!---->
+<!---->
+<!---->
+<h2 align="center"> 📊 Estatisticas de GitHub </h2>
+<div align="center">
 
 [![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeyserPinto&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
-### 💼 Projectos
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Contacto-->
+<!---->
+<!---->
+<!---->
+<!---->
+<h2 align="center"> 🔔 Contacto </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leyser-pinto/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-[![CV](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=leyserpinto.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Contato
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leyser-pinto/)
+<h2 align="center">  💼 <a href="https://leyserpinto-portfolio.netlify.app/">Portfolio</a> 
+</h2>
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
