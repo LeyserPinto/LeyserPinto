@@ -6,16 +6,16 @@
 
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
 
-### 🌱 Conocimientos en
+<h2 align="center">🌱 Leenguajes </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,c#,vba" />
   </a>
 </p>
       
       
-### 💥 Frameworks Conocidos:
+### 💥 Frameworks & Librerias:
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
