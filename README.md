@@ -100,7 +100,7 @@
 <!---->
 <!---->
 <!---->
-<h2 align="center">🎊</h2>
+<h2 align="center">🎊 Extras</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -152,6 +152,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leyser-pinto/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leyserpinto-portfolio.netlify.app/">
+    💼 Portfolio
   </a>
 </p>
 
