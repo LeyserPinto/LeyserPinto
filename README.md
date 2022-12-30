@@ -88,7 +88,7 @@
 <h2 align="center"> 💼 Proyectos </h2>
 <div align="center"> 
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) [![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) 
   
 </div>
 
@@ -117,7 +117,12 @@
 <!---->
 <!---->
 <!---->
-
+<h2 align="center"> 🔔 Contacto </h2>
+<p align="center">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/leyser-pinto/)">
+    <img src="https://skillicons.dev/icons?i=linkedind" />
+  </a>
+</p>
 ### Contacto
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leyser-pinto/)
