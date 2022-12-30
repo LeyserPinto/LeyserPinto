@@ -43,11 +43,11 @@
 </div>
 
 
-### 💼 Proyectos
+<h2 align="center"> 💼 Proyectos </h2>
+<div align="center"> 
 
-[![CV](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=leyserpinto.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
-
+[![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) [![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ### Contacto
 
