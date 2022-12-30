@@ -35,7 +35,7 @@
 <!---->
 <!---->
 <!---->
-<!---->
+<!----><!--Habilidades o Lenguajes conocidos-->
 <!---->
 <!---->
 <!---->
@@ -50,7 +50,7 @@
 <!---->
 <!---->
 <!---->
-<!---->
+<!----><!--Habilidades Front End-->
 <!---->
 <!---->
 <!---->
@@ -65,7 +65,7 @@
 <!---->
 <!---->
 <!---->
-<!---->
+<!----><!--Habilidades Back End-->
 <!---->
 <!---->
 <!---->
@@ -80,7 +80,7 @@
 <!---->
 <!---->
 <!---->
-<!--Proyectos-->
+<!----><!--Proyectos-->
 <!---->
 <!---->
 <!---->
@@ -88,9 +88,19 @@
 <h2 align="center"> 💼 Proyectos </h2>
 <div align="center"> 
 
-[![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) [![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) [![OneBitLife](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=onebitlife)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Stats Github-->
+<!---->
+<!---->
+<!---->
+<!---->
 <h2 align="center"> 📊 Estadisticas de GitHub </h2>
 <div align="center">
 
@@ -98,7 +108,15 @@
 </div>
 
 
-
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!--Contacto-->
+<!---->
+<!---->
+<!---->
+<!---->
 
 ### Contacto
 
