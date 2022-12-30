@@ -1,13 +1,15 @@
+<div align="center">
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
-
-
-[![pt-br](:brazil:)](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+[Ingles](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.en.md) |
+[Portugues](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+</div>
 
 <h1 align="center"> Hola, Soy Leyser! </h1>
 
+<p align="center">
 👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
+</p>
+
 
 <h2 align="center">🌱 Habilidades </h2>
 
