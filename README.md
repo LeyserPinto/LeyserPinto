@@ -116,14 +116,6 @@
 <!---->
 <!---->
 <!---->
-<h2 align="center"> 💼 Proyectos </h2>
-<div align="center"> 
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>
-
-<!---->
 <!---->
 <!---->
 <!---->
@@ -136,6 +128,8 @@
 <div align="center">
 
   [![LeyserPinto GitHub stats](https://github-readme-stats.vercel.app/api?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
