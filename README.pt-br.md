@@ -135,7 +135,9 @@
 <h2 align="center"> 📊 Estatisticas de GitHub </h2>
 <div align="center">
 
-[![Leyser Pinto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeyserPinto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeyserPinto&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![LeyserPinto GitHub stats](https://github-readme-stats.vercel.app/api?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
