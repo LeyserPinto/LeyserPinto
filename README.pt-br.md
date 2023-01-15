@@ -116,13 +116,6 @@
 <!---->
 <!---->
 <!---->
-<h2 align="center"> 💼 Projetos </h2>
-<div align="center"> 
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeyserPinto&repo=portfolio-netlify)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>
-
 <!---->
 <!---->
 <!---->
