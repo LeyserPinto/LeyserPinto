@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,electron,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,jquery,electron,tailwind,bootstrap,sass" />
   </a>
 </p>
 <!---->
@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,python" />
   </a>
 </p>
 <!---->
