@@ -27,9 +27,9 @@
 <!----><!--`Un Poco sobre mi-->
 <!---->
 <!---->
-<p align="center">
-👀 Desenvolvedor Web desde 2019, Experiências em manutenção de equipos, desenvolvimento de sistemas, sites web, aplicativos e administração do banco de dados SQL Server MySQL. Minha principal linguagem de desenvolvimento é JavaScript.
-</p>
+<h3 align="center">
+👀 Desenvolvedor Web Full Stack
+</h3>
 
 <!---->
 <!---->
@@ -80,31 +80,15 @@
 <!---->
 <!---->
 <!---->
-<!----><!--Diseño de UX-->
-<!---->
-<!---->
-<!---->
-<h2 align="center">✨ UX/UI: </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
-  </a>
-</p>
-
-<!---->
-<!---->
-<!---->
-<!---->
 <!----><!--Otras Habilidades-->
 <!---->
 <!---->
 <!---->
-<h2 align="center">🎊 Características Adicionais</h2>
+<h2 align="center">🎊Plus</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify" />
+    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify,gulp,vercel,figma,ps" />
   </a>
 </p>
 <!---->
@@ -149,9 +133,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<h2 align="center">  💼 <a href="https://leyserpinto-portfolio.netlify.app/">Portfolio</a> 
-</h2>
 
 <!---
 LeyserPinto/LeyserPinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
