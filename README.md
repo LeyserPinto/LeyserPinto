@@ -28,7 +28,7 @@
 <!---->
 <!---->
 <p align="center">
-👀 Desarrollador Web desde 2019, Experiencias en mantenimiento de equipos, desarrollo de sistemas informáticos y administración de la base de datos SQL Server MySQL. Mi principal lenguaje de desarrollo es JavaScript.
+👀 Desarrollador Web Fullstack.
 </p>
 
 <!---->
