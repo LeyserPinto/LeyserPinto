@@ -9,8 +9,8 @@
 <!---->
 <div align="center">
   
-[Español](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md) |
-[Portugues](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
+[Spanish](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.md) |
+[Portuguese](https://github.com/LeyserPinto/LeyserPinto/blob/Main/README.pt-br.md)
   
 </div>
 <!---->
