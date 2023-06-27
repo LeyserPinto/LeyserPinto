@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,jquery,electron,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,jquery,electron,tailwind,bootstrap,sass" />
   </a>
 </p>
 <!---->
@@ -73,25 +73,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,python" />
   </a>
 </p>
-<!---->
-<!---->
-<!---->
-<!---->
-<!----><!--Diseño de UX-->
-<!---->
-<!---->
-<!---->
-<h2 align="center">✨ UX/UI: </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
-  </a>
-</p>
-
 <!---->
 <!---->
 <!---->
@@ -100,11 +84,11 @@
 <!---->
 <!---->
 <!---->
-<h2 align="center">🎊 Extras</h2>
+<h2 align="center">🎊Extras</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify" />
+    <img src="https://skillicons.dev/icons?i=vite,git,github,linux,netlify,gulp,vercel,figma,ps" />
   </a>
 </p>
 <!---->
