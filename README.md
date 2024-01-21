@@ -110,8 +110,8 @@
 <!---->
 <h2 align="center"> 📊 Estadisticas de GitHub </h2>
 <div align="center">
-
-  [![LeyserPinto GitHub stats](https://github-readme-stats.vercel.app/api?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Leyser's stats](https://github-readme-stats.vercel.app/api?username=leyserpinto&show_icons=true&theme=transparent)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyserpinto)](https://github.com/anuraghazra/github-readme-stats)
 </div>
